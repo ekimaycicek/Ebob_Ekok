@@ -33,7 +33,6 @@ public class EbobEkok {
         System.out.println("2.enter the number: ");
         int number2 = input.nextInt();
 
-
         max = number*number2;
 
         for (int i = max; i >0 ; i--) {
