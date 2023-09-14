@@ -49,6 +49,7 @@ public class EbobEkok {
 
         Scanner input = new Scanner(System.in);
 
+
         System.out.println("*****Welcome*****");
         System.out.println("Select an action ==> \n" + "1- Ebob\n" + "2- Ekok");
         System.out.println("\t==>");
