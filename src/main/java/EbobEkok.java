@@ -52,7 +52,6 @@ public class EbobEkok {
         System.out.println("*****Welcome*****");
         System.out.println("Select an action ==> \n" + "1- Ebob\n" + "2- Ekok");
         System.out.println("\t==>");
-
         int vote = input.nextInt();
 
         if (vote < 1 || vote>2 ){
