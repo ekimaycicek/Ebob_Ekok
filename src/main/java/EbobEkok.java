@@ -38,6 +38,8 @@ public class EbobEkok {
             if (i%number == 0 && i%number2==0){
                 ekok = i;
             }
+
+
         }
         System.out.println("ekok = " + ekok);
 
