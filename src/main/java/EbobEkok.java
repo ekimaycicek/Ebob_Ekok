@@ -39,7 +39,6 @@ public class EbobEkok {
                 ekok = i;
             }
 
-
         }
         System.out.println("ekok = " + ekok);
 
